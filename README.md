@@ -83,7 +83,8 @@ Here are some ideas to get you started:
 <details>
 <summary>🌱 Currently Learning</summary>
   <ul>
-    <li>-                 </li>
+    <li>Production Engineering ⚙️</li>
+    <li>Game Developement 👾</li>
   </ul>
 </details>
   
