@@ -54,40 +54,41 @@ Here are some ideas to get you started:
 
 <details><summary>🤔 About Me</summary>
   <ul>
-    <li>what i like, study, eg "aspiring machine learning engineer/data scientist. While at school, I enjoy learning about topics that machine learning can be applied to in a meaningful way. </li>
+<!--    <li>what i like, study, eg "aspiring machine learning engineer/data scientist. While at school, I enjoy learning about topics that machine learning can be applied to in a meaningful way. </li>
     <li>Outside of school, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning through MOOC's and conferences." ,</li>
-    <li>🎓 3rd Year HBSc. Computer Science at Ryerson University, 2024</li>
+ -->   <li>🎓 3rd Year HBSc. Computer Science at Ryerson University, 2024</li>
     <li>&#128269; Currently searching for Fall 2021 Internships</li>
-    <li>Feel free to connect with me if you want to ...hackathon? learn? practice?</li>
+<!--    <li>Feel free to connect with me if you want to ...hackathon? learn? practice?</li>     -->
   </ul>
 </details>
 
 <details><summary>Languages & Tech</summary>
   <ul>
     <li>Languages: Python, Java, SQL, JavaScript                </li>
-    <li>Libraries:                </li>
+<!--      <li>Libraries: jQuery               </li>  ..??, AJAX  -->
     <li>Frameworks: Bootstrap                </li>
-    <li>Frontend:	HTML5, CSS3, jQuery, AJAX                </li>
+    <li>Frontend:	HTML5, CSS3               </li>
     <li>Backend: NoSQL                </li>
     <li>Databases: MySQL                </li>
     <li>Development Tools:	GitHub, Git, VSCode/Visual Studio                </li>
   </ul>
 </details>
-  
+<!--    
 <details><summary>🔭 Currently Working on</summary>
   <ul>
     <li>-                 </li>
   </ul>
 </details>
-  
+-->  
 <details>
 <summary>🌱 Currently Learning</summary>
   <ul>
     <li>Production Engineering ⚙️</li>
     <li>Game Developement 👾</li>
+    <li>Data Science/Engineering 📊</li>
   </ul>
 </details>
-  
+<!--    
 <details>  
 <summary>⚡ Fun fact:</summary>
   <ul>
@@ -112,3 +113,4 @@ Here are some ideas to get you started:
 [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/habdulha/)   
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/HamdiaA)   
 </details>
+-->
