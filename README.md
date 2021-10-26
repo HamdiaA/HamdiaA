@@ -88,7 +88,16 @@ Here are some ideas to get you started:
     <li>Data Science/Engineering 📊</li>
   </ul>
 </details>
+ <!--  
+<details>
+<summary>❤️ Things I Love</summary>
+  <ul>
+    <li>Hackathons! </li>
+  </ul>
+</details>
+ 
 <!--    
+ 
 <details>  
 <summary>⚡ Fun fact:</summary>
   <ul>
@@ -96,6 +105,8 @@ Here are some ideas to get you started:
   </ul>
 </details>
   
+add mlh experience too
+
 <details>
 <summary>📫 How to Reach Me/Contact Me:</summary>
   <ul>
